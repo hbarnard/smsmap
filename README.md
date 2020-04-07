@@ -3,7 +3,7 @@ sms to mapping tool, as simple coronavirus support
 
 This is just a placeholder for the main site on sourceforge
 https://sourceforge.net/p/smsmap/code/ci/master/tree/
-or simple debian package also available.
+or simple debian package also available here: https://sourceforge.net/projects/smsmap/files/
 
 Description
 
