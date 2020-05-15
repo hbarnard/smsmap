@@ -1,5 +1,5 @@
 # smsmap
-sms to mapping tool, as simple coronavirus support
+sms to mapping tool, as simple coronavirus community support and semi-manual tracing without using smartphone apps. Recently update to use an SMS SIM card and dongle. So no need to use a commercial SMS processor.
 
 This is just a placeholder for the main site on sourceforge
 https://sourceforge.net/p/smsmap/code/ci/master/tree/
